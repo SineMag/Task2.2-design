@@ -11,9 +11,7 @@
     
 
 }
-body {
-    background-color: rgb(241, 236, 236);
-}
+
 
 h5{
     font-family: Avantgarde;
@@ -34,6 +32,7 @@ button {
 
 h6 {
     font-family: 'Times New Roman', Times, serif ;
+    color: rgb(189, 179, 167);
 }
 
 .topnav-centered {
@@ -44,6 +43,7 @@ h6 {
 #box1 {
     text-align: center;
 }
-img {
-    
+.img {
+    display: inline;
+
 }
