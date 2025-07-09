@@ -35,13 +35,7 @@ button {
 h6 {
     font-family: 'Times New Roman', Times, serif ;
 }
-section {
-    background-color: rgb(83, 57, 107);
-    color: rgb(216, 223, 230);
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: larger;
-    margin: 0%;
-}
+
 .topnav-centered {
     background-color: aliceblue;
     
@@ -49,4 +43,7 @@ section {
 }
 #box1 {
     text-align: center;
+}
+img {
+    
 }
