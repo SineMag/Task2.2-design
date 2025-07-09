@@ -8,6 +8,7 @@
     background-color: rgb(247, 248, 248);
     align-items: center;
     
+    
 
 }
 body {
@@ -39,4 +40,13 @@ section {
     color: rgb(216, 223, 230);
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
+    margin: 0%;
+}
+.topnav-centered {
+    background-color: aliceblue;
+    
+
+}
+#box1 {
+    text-align: center;
 }
